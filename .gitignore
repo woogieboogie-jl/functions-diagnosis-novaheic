@@ -10,5 +10,4 @@ out/
 # Docs
 docs/
 
-# Dotenv file
-.env
+# Dotenv file intentionally there (read-only diagnosis repo fro novaheic)
