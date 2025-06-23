@@ -1,4 +1,4 @@
-# Project Name
+# Functions Diagnosis
 
 ## Setup
 
